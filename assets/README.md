@@ -37,8 +37,10 @@ For development purposes, you can use placeholder images from services like:
 - https://via.placeholder.com/
 - https://picsum.photos/
 - https://unsplash.com/
+- https://placehold.co/
 
 Example placeholder for app icon:
 ```
 https://via.placeholder.com/1024x1024/007AFF/FFFFFF?text=SD
 ```
+™
